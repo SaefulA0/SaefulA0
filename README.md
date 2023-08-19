@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saeful Anwar Oktariansah</h1>
-<h3 align="center">A beginner in the frontend developer field</h3>
+<h3 align="center">A beginner in the frontend developer</h3>
+<img align="right" alt="Code Run" width="350" src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SaefulA0&label=Profile%20views&color=0e75b6&style=flat" alt="SaefulA0" /> </p>
 
